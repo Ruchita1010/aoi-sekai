@@ -23,4 +23,8 @@ A dark theme for Visual Studio Code with blue at its heart, drawing inspiration 
 ## Contributing
 
 Contributions are welcome 💙!
-If you have any feedback, suggestions, or encounter any issues, please feel free to raise an issue on the [GitHub repository](https://github.com/Ruchita1010/aoi-sekai).
+If you have any feedback, suggestions, or encounter any issues, please feel free to raise an issue.
+
+## License
+
+Aoi Sekai Theme is [MIT licensed](./LICENSE).
