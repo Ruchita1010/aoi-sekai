@@ -1,0 +1,21 @@
+{
+  "name": "aoi-sekai",
+  "displayName": "Aoi Sekai",
+  "description": "A dark theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aoi Sekai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aoi-sekai-color-theme.json"
+      }
+    ]
+  }
+}
