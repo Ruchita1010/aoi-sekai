@@ -1,13 +1,21 @@
 {
   "name": "aoi-sekai",
   "displayName": "Aoi Sekai",
-  "description": "A dark theme for Visual Studio Code",
+  "description": "A dark theme for Visual Studio Code with blue at its heart",
   "version": "0.0.1",
+  "publisher": "RuchitaGosavi",
   "engines": {
     "vscode": "^1.83.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "aoi sekai",
+    "dark",
+    "theme",
+    "color theme",
+    "blue"
   ],
   "contributes": {
     "themes": [
