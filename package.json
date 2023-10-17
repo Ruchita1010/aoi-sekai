@@ -22,6 +22,10 @@
     "color theme",
     "blue"
   ],
+  "galleryBanner": {
+    "color": "#01091b",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
