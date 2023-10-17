@@ -1,16 +1,26 @@
-# aoi-sekai README
+# Aoi Sekai
 
-## Working with Markdown
+A dark theme for Visual Studio Code with blue at its heart, drawing inspiration from the 'Blue Period' manga's signature panel — A Blue World!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![Theme Preview](https://github.com/Ruchita1010/aoi-sekai/assets/70577616/736aa75d-b4f2-4191-bcfa-11a425ea8839)
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
 
-## For more information
+1. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+   Alternatively, you can navigate to the Command Palette (`Ctrl+Shift+P`), type "Install Extension" and press Enter.
 
-**Enjoy!**
+2. Search for _**Aoi Sekai**_ in the Extensions view search box.
+
+3. Click the "Install" button to install the theme.
+
+## Setting the theme
+
+- Open the color picker by simply using the keyboard shortcut `Ctrl+K Ctrl+T` and select _**Aoi Sekai**_
+
+- Alternatively, you can go to `File > Preferences > Theme > Color Theme` dropdown menu and select _**Aoi Sekai**_
+
+## Contributing
+
+Contributions are welcome 💙!
+If you have any feedback, suggestions, or encounter any issues, please feel free to raise an issue on the [GitHub repository](https://github.com/Ruchita1010/aoi-sekai).
